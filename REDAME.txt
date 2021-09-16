@@ -1,0 +1,7 @@
+Deleracar las siguientes variables de entorno
+
+PORT
+BASE_URL_ZOOM
+CORREO
+APIKEY
+APISECRET
